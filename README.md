@@ -1,4 +1,6 @@
-Welcome to Advice Giver 👋
+<h1 align="center">Welcome to Advice Giver 👋</h1>
+<p>
+</p>
 
 > Just another app that gives you random advices from GodKnowsWhere
 
