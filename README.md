@@ -23,5 +23,7 @@ npm run dev
 Give a ⭐️ if this project helped you!
 
 ***
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 _Found this App at: [Medium Article](https://medium.com/swlh/generate-a-slick-readme-for-your-next-github-repo-quickly-c1d9eabe914e)       
+
